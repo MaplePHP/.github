@@ -1,2 +1,3 @@
-# MaplePHP
-MaplePHP is a layered structure MVC PHP framework that very user-friendly and does not compromise on performance or scalability.
+# MaplePHP - Community Health Files
+
+This repository contains the default community health files for the organization.
