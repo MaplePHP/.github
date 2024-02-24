@@ -1,12 +1,11 @@
-# MaplePHP 👋
-MaplePHP is a layered structure MVC PHP framework that very user-friendly and does not compromise on performance or scalability
-<!--
+## Welcome to MaplePHP 👋
 
-**Here are some ideas to get you started:**
+MaplePHP is a layered structure MVC PHP framework that very user-friendly and does not compromise on performance or scalability.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Documentation
+
+Dive into our detailed documentation. Whether you're just getting started or looking to master the advanced features of MaplePHP, everything you need is right at your fingertips. **[Explore the MaplePHP documentation here](https://maplephp.wazabii.se/)**.
+
+## Contribute
+
+Your contributions, no matter how small or large, play a pivotal role in the evolution of MaplePHP. From correcting a minor typo to fixing a critical bug, every effort is valued and deeply appreciated. Join our community of contributors and help shape the future of MaplePHP!
